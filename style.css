@@ -1,0 +1,11 @@
+
+.nicher-lekha{
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid red;
+}
